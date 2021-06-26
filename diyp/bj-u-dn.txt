@@ -36,7 +36,26 @@ CCTV14,rtp://239.3.1.65:8132$北京联通
 CCTV15,rtp://239.3.1.153:8136$北京联通
 CCTV5+,rtp://239.3.1.130:8004$北京联通
 CCTV17,rtp://239.3.1.151:8144$北京联通
-CGTN,rtp://239.3.1.16:8056$北京联通
+
+CCTV1,http://ivi6.bupt.edu.cn/hls/cctv1hd.m3u8$北京邮电
+CCTV2,http://ivi6.bupt.edu.cn/hls/cctv2hd.m3u8$北京邮电
+CCTV3,http://ivi6.bupt.edu.cn/hls/cctv3hd.m3u8$北京邮电
+CCTV4,http://ivi6.bupt.edu.cn/hls/cctv4hd.m3u8$北京邮电
+#CCTV5,http://ivi6.bupt.edu.cn/hls/cctv5hd.m3u8$北京邮电
+CCTV6,http://ivi6.bupt.edu.cn/hls/cctv6hd.m3u8$北京邮电
+CCTV7,http://ivi6.bupt.edu.cn/hls/cctv7hd.m3u8$北京邮电
+CCTV8,http://ivi6.bupt.edu.cn/hls/cctv8hd.m3u8$北京邮电
+CCTV9,http://ivi6.bupt.edu.cn/hls/cctv9hd.m3u8$北京邮电
+CCTV10,http://ivi6.bupt.edu.cn/hls/cctv10hd.m3u8$北京邮电
+CCTV11,http://ivi6.bupt.edu.cn/hls/cctv11hd.m3u8$北京邮电
+CCTV12,http://ivi6.bupt.edu.cn/hls/cctv12hd.m3u8$北京邮电
+CCTV13,http://ivi6.bupt.edu.cn/hls/cctv13hd.m3u8$北京邮电
+CCTV14,http://ivi6.bupt.edu.cn/hls/cctv14hd.m3u8$北京邮电
+CCTV15,http://ivi6.bupt.edu.cn/hls/cctv15hd.m3u8$北京邮电
+CCTV5+,http://ivi6.bupt.edu.cn/hls/cctv5phd.m3u8$北京邮电
+CCTV17,http://ivi6.bupt.edu.cn/hls/cctv17hd.m3u8$北京邮电
+CGTN,http://ivi6.bupt.edu.cn/hls/cgtnhd.m3u8$北京邮电
+CGTNDocumentary,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8$北京邮电
 
 
 卫视,#genre#
@@ -80,6 +99,45 @@ CGTN,rtp://239.3.1.16:8056$北京联通
 江西卫视,rtp://239.3.1.123:8164$北京联通
 中国教育1台,rtp://239.3.1.57:8152$北京联通
 
+湖南卫视,http://ivi6.bupt.edu.cn/hls/hunanhd.m3u8$北京邮电
+江苏卫视,http://ivi6.bupt.edu.cn/hls/jshd.m3u8$北京邮电
+东方卫视,http://ivi6.bupt.edu.cn/hls/dfhd.m3u8$北京邮电
+安徽卫视,http://ivi6.bupt.edu.cn/hls/ahhd.m3u8$北京邮电
+广东卫视,http://ivi6.bupt.edu.cn/hls/gdhd.m3u8$北京邮电
+深圳卫视,http://ivi6.bupt.edu.cn/hls/szhd.m3u8$北京邮电
+辽宁卫视,http://ivi6.bupt.edu.cn/hls/lnhd.m3u8$北京邮电
+山东卫视,http://ivi6.bupt.edu.cn/hls/sdhd.m3u8$北京邮电
+天津卫视,http://ivi6.bupt.edu.cn/hls/tjhd.m3u8$北京邮电
+重庆卫视,http://ivi6.bupt.edu.cn/hls/cqhd.m3u8$北京邮电
+东南卫视,http://ivi6.bupt.edu.cn/hls/dnhd.m3u8$北京邮电
+贵州卫视,http://ivi6.bupt.edu.cn/hls/gzhd.m3u8$北京邮电
+河北卫视,http://ivi6.bupt.edu.cn/hls/hebhd.m3u8$北京邮电
+黑龙江卫视,http://ivi6.bupt.edu.cn/hls/hljhd.m3u8$北京邮电
+湖北卫视,http://ivi6.bupt.edu.cn/hls/hbhd.m3u8$北京邮电
+江西卫视,http://ivi6.bupt.edu.cn/hls/jxhd.m3u8$北京邮电
+中国教育1台,http://ivi6.bupt.edu.cn/hls/cetv1hd.m3u8$北京邮电
+四川卫视,http://ivi6.bupt.edu.cn/hls/schd.m3u8$北京邮电
+河南卫视,http://ivi6.bupt.edu.cn/hls/hnhd.m3u8$北京邮电
+广西卫视,http://ivi6.bupt.edu.cn/hls/gxhd.m3u8$北京邮电
+吉林卫视,http://ivi6.bupt.edu.cn/hls/jlhd.m3u8$北京邮电
+旅游卫视,http://ivi6.bupt.edu.cn/hls/lyhd.m3u8$北京邮电
+
+中数传媒,#genre#
+CHC高清电影,http://hdtv.haust.edu.cn/hls/hls260.m3u8$河南科大
+CHC家庭影院,http://hdtv.haust.edu.cn/hls/hls259.m3u8$河南科大
+CHC动作电影,http://hdtv.haust.edu.cn/hls/hls261.m3u8$河南科大
+电视指南,http://hdtv.haust.edu.cn/hls/hls186a88.m3u8$河南科大
+世界地理,http://hdtv.haust.edu.cn/hls/hls184a515.m3u8$河南科大
+第一剧场,http://hdtv.haust.edu.cn/hls/hls184a512.m3u8$河南科大
+风云足球,http://hdtv.haust.edu.cn/hls/hls184a510.m3u8$河南科大
+风云剧场,http://hdtv.haust.edu.cn/hls/hls184a516.m3u8$河南科大
+风云音乐,http://hdtv.haust.edu.cn/hls/hls184a519.m3u8$河南科大
+怀旧剧场,http://hdtv.haust.edu.cn/hls/hls184a518.m3u8$河南科大
+兵器科技,http://hdtv.haust.edu.cn/hls/hls184a573.m3u8$河南科大
+女性时尚,http://hdtv.haust.edu.cn/hls/hls184a522.m3u8$河南科大
+央视文化,http://hdtv.haust.edu.cn/hls/hls184a520.m3u8$河南科大
+央视台球,http://hdtv.haust.edu.cn/hls/hls184a574.m3u8$河南科大
+
 北京,#genre#
 北京卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226441/1.m3u8$北京移动
 BTV文艺,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226440/1.m3u8$北京移动
@@ -112,7 +170,18 @@ KAKU动画,rtp://239.3.1.189:8000$北京联通
 北京纪实,rtp://239.3.1.121:8000$北京联通SDR
 北京纪实,rtp://239.3.1.120:8000$北京联通HDR
 
-湖南,#genre#
+
+北京卫视,http://ivi6.bupt.edu.cn/hls/btv1hd.m3u8$北京邮电
+BTV文艺,http://ivi6.bupt.edu.cn/hls/btv2hd.m3u8$北京邮电
+BTV科教,http://ivi6.bupt.edu.cn/hls/btv1hd.m3u8$北京邮电
+BTV影视,http://ivi6.bupt.edu.cn/hls/btv4hd.m3u8$北京邮电
+BTV新闻,http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8$北京邮电
+北京纪实,http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8$北京邮电
+
+上海文广,#genre#
+
+
+芒果TV,#genre#
 湖南卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8$北京移动
 快乐垂钓,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226549/1.m3u8$北京移动
 茶频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/1.m3u8$北京移动
@@ -121,7 +190,7 @@ KAKU动画,rtp://239.3.1.189:8000$北京联通
 快乐垂钓,rtp://239.3.1.164:8001$北京联通
 茶频道,rtp://239.3.1.165:8001$北京联通
 
-香港,#genre#
+港台国际,#genre#
 凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8$北京移动
 凤凰资讯,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8$北京移动
 
@@ -137,3 +206,5 @@ J2,https://cdn.hkdtmb.com/hls/82/index.m3u8$香港地面
 无线财经,https://cdn.hkdtmb.com/hls/85/index.m3u8$香港地面
 ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8$香港地面
 ViuTV Six,https://cdn.hkdtmb.com/hls/96/index.m3u8$香港地面
+
+测试,#genre#
