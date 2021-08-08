@@ -37,20 +37,19 @@ CCTV15,rtp://239.3.1.153:8136$北京联通
 CCTV5+,rtp://239.3.1.130:8004$北京联通
 CCTV17,rtp://239.3.1.151:8144$北京联通
 
-CCTV4欧洲,rtp://239.3.1.213:4220$北京联通
-CCTV4美洲,rtp://239.3.1.214:4220$北京联通
+CCTV4,rtp://239.3.1.213:4220$北京联通.欧洲
+CCTV4,rtp://239.3.1.214:4220$北京联通.美洲
 CGTN,rtp://239.3.1.215:4220$北京联通
-CGTN记录,rtp://239.3.1.216:4220$北京联通
-CGTN西班牙语,rtp://239.3.1.217:4220$北京联通
-CGTN法语,rtp://239.3.1.218:4220$北京联通
-CGTN阿拉伯语,rtp://239.3.1.219:4220$北京联通
-CGTN俄语,rtp://239.3.1.220:4220$北京联通
+CGTNDocumentary,rtp://239.3.1.216:4220$北京联通
+CGTN,rtp://239.3.1.217:4220$北京联通.西班牙语
+CGTN,rtp://239.3.1.218:4220$北京联通.法语
+CGTN,rtp://239.3.1.219:4220$北京联通.阿拉伯语
+CGTN,rtp://239.3.1.220:4220$北京联通.俄语
 
 CCTV1,http://ivi6.bupt.edu.cn/hls/cctv1hd.m3u8$北京邮电
 CCTV2,http://ivi6.bupt.edu.cn/hls/cctv2hd.m3u8$北京邮电
 CCTV3,http://ivi6.bupt.edu.cn/hls/cctv3hd.m3u8$北京邮电
 CCTV4,http://ivi6.bupt.edu.cn/hls/cctv4hd.m3u8$北京邮电
-# CCTV5,http://ivi6.bupt.edu.cn/hls/cctv5hd.m3u8$北京邮电
 CCTV6,http://ivi6.bupt.edu.cn/hls/cctv6hd.m3u8$北京邮电
 CCTV7,http://ivi6.bupt.edu.cn/hls/cctv7hd.m3u8$北京邮电
 CCTV8,http://ivi6.bupt.edu.cn/hls/cctv8hd.m3u8$北京邮电
@@ -132,6 +131,15 @@ CGTNDocumentary,http://ivi6.bupt.edu.cn/hls/cgtndochd.m3u8$北京邮电
 旅游卫视,http://ivi6.bupt.edu.cn/hls/lyhd.m3u8$北京邮电
 
 中数传媒,#genre#
+风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls$贵州移动
+世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls$贵州移动
+文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls$贵州移动
+女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls$贵州移动
+风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls$贵州移动
+风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls$贵州移动
+怀旧剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls$贵州移动
+第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls$贵州移动
+
 CHC高清电影,http://hdtv.haust.edu.cn/hls/hls260.m3u8$河南科大
 CHC家庭影院,http://hdtv.haust.edu.cn/hls/hls259.m3u8$河南科大
 CHC动作电影,http://hdtv.haust.edu.cn/hls/hls261.m3u8$河南科大
@@ -188,7 +196,25 @@ BTV新闻,http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8$北京邮电
 北京纪实,http://ivi6.bupt.edu.cn/hls/btv11hd.m3u8$北京邮电
 
 上海文广,#genre#
-
+上海ICS外语,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+上海东方影视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+上海五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
+上海第一财经,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+上海新闻综合,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海纪实人文,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+上海哈哈炫动,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+上海都市,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+SiTV新视觉,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+SiTV动漫秀场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+SiTV游戏风云,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+SiTV劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+SiTV魅力足球,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+SiTV欢笑剧场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+SiTV极速汽车,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+SiTV生活时尚,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+SiTV全纪实,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/qjshd/4000000/mnf.m3u8
+SiTV都市剧场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+SiTV幸福彩,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xfchd/4000000/mnf.m3u8
 
 芒果TV,#genre#
 湖南卫视,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226509/1.m3u8$北京移动
@@ -199,9 +225,17 @@ BTV新闻,http://ivi6.bupt.edu.cn/hls/btv9hd.m3u8$北京邮电
 快乐垂钓,rtp://239.3.1.164:8001$北京联通
 茶频道,rtp://239.3.1.165:8001$北京联通
 
+华数数字,#genre#
+求索动物,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/1/index.m3u8?fmt=ts2hls$浙江移动
+求索生活,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/1/index.m3u8?fmt=ts2hls$浙江移动
+求索科学,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/1/index.m3u8?fmt=ts2hls$浙江移动
+求索纪录,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/1/index.m3u8?fmt=ts2hls$浙江移动
+
+
 港台国际,#genre#
-凤凰中文,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225948/1.m3u8$北京移动
-凤凰资讯,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225949/1.m3u8$北京移动
+凤凰中文,http://ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$江苏移动
+凤凰资讯,http://ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$江苏移动
+凤凰香港,http://ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$江苏移动
 
 港台电视31,https://cdn.hkdtmb.com/hls/31/index.m3u8$香港地面
 港台电视32,https://cdn.hkdtmb.com/hls/32/index.m3u8$香港地面
